@@ -4,4 +4,4 @@ This is the Netflix logo drawed with css, I am following a [MejiByte 1 minute Tu
 
 # preview
 
-![Netflix Logo](./netflixLogoScreenShot)
+![Netflix logo](https://github.com/franciscoG98/NetflixLogo/blob/main/netflixLogoScreenShot.png)
